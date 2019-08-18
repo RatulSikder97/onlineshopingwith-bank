@@ -1,0 +1,53 @@
+body{
+  height: 720px;
+  width: 1288px;
+  background-image: url("book.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; 
+}
+
+.mid-write{
+  text-align: center;
+  margin-top: 160px;
+ 
+
+
+}
+.mid-write h1{
+  
+  font-style: bold;
+  word-spacing: 10px;
+  margin-left: 4%;
+  margin-bottom: 2%; 
+}
+.mid-write p{
+  font-size:20px;
+  color: black;
+}
+
+.mid-btn {
+  width: 50%;
+  margin: 0 auto;
+ 
+
+}
+.mid-btn button{
+    background-color: #0d7;
+    width: 80px;
+}
+
+.regForm
+{
+  width: 40%;
+ 
+  margin: 0 auto;
+  padding: 40px;
+
+}
+.regForm h1{
+  font-style: bold;
+  text-align: center;
+  
+}
+
+
